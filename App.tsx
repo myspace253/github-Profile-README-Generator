@@ -53,7 +53,7 @@ function App() {
             Craft Your GitHub Profile
           </h1>
           <p className="mt-4 text-lg text-gray-400 max-w-2xl mx-auto">
-            Fill in your details below and let AI create a stunning, professional README for your GitHub profile.
+            Fill in your details below and let AI create a stunning, animated, and professional README for your GitHub profile.
           </p>
         </div>
         

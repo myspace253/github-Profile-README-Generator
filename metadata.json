@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Profile README Generator",
+  "description": "Generate a beautiful and professional GitHub profile README using AI. Simply fill in your details and let Gemini craft a stunning Markdown file for you to use.",
+  "requestFramePermissions": []
+}
